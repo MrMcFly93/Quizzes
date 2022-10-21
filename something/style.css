@@ -1,0 +1,32 @@
+
+body{
+    width: 300px;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#btn{
+    position: relative;
+    left: 65px;
+
+}
+
+
+#img1{
+    width: 40px;
+    height: 168px;
+}
+
+#img2{
+    font-size: 2rem;
+}
+
+
+
+
+
+
